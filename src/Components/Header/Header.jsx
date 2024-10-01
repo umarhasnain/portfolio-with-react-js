@@ -3,7 +3,7 @@ import "./header.css"
 import Button from '../Button/Button'
 const Header = () => {
   return (
-    <div className='flex justify-evenly items-center flex-wrap	 p-6'>
+    <div className='flex justify-evenly items-center flex-wrap p-6'>
         {/* Logo Section */}
       <div className="logo">
         
