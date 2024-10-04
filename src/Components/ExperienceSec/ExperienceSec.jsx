@@ -5,7 +5,7 @@ const ExperienceSec = () => {
     console.log(expData);
     
   return (
-    <div className="flex justify-center items-center flex-wrap flex-col bg-black p-20 mb-14">
+    <div className="flex justify-center items-center flex-wrap flex-col bg-black p-20 mb-14 p-4">
         <h1 className="text-white text-2xl p-2 border-2 mb-8">My Experience</h1>
       {
         expData.map((item, index) => (

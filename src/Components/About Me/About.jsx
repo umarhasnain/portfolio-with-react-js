@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className="flex justify-center flex-wrap gap-24 bg-white-100">
+    <div className="flex justify-center flex-wrap gap-24 bg-white-100 m-4">
       <div>
         <img className="w-96" src="./assets/imgs/about.svg" alt="" />
       </div>
